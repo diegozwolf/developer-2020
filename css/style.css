@@ -316,6 +316,19 @@ figure {
         #colorlib-hero .flexslider .slider-text > .slider-text-inner .heading-section {
           font-size: 50px; }
           @media screen and (max-width: 768px) {
+            .title-galery-cont {
+              background-color: rgba(18,11,0,0.04);
+              padding: 15px;
+              margin-top: 15vh;
+              margin-left: -21px;
+            }
+            .title-galery-cont-b {
+              background-color: rgba(18,11,0,0.04);
+              margin-left: -50px;
+              padding: 23px 110px 0px 0px;
+          
+
+            }
             #colorlib-hero .flexslider .slider-text > .slider-text-inner .heading-section {
               font-size: 30px; } }
         #colorlib-hero .flexslider .slider-text > .slider-text-inner s
