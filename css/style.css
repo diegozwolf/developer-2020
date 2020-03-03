@@ -879,6 +879,10 @@ body.offcanvas {
   background: #fff;
   margin-bottom: 3em; }
   @media screen and (max-width: 768px) {
+
+    .skill-row-space {
+      padding: 0 15px;
+    }
     .blog-entry {
       margin-bottom: 3em; } }
   .blog-entry .blog-img {
