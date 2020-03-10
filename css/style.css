@@ -970,7 +970,7 @@ body.offcanvas {
     left: 0;
     right: 0;
     background: #2c98f0;
-    background: #2c98f0ab;
+    background: RGBA(56,156,206,0.85);
     opacity: 0;
     -webkit-transition: 0.3s;
     -o-transition: 0.3s;
