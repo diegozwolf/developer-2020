@@ -628,6 +628,12 @@ body.offcanvas {
   filter: alpha(opacity=40);
   font-size: 16px; }
 
+  .tecs-fielsds{
+    border-radius: 4px;
+    color: #333333 !important;
+    padding: 5px;
+    background: rgba(255, 255, 255, 0.5);
+  }
 .services {
   margin-bottom: 30px;
   padding: 1.5em;
@@ -954,6 +960,9 @@ body.offcanvas {
   width: 100%;
   display: block;
   margin-bottom: 30px; }
+  .title-work{
+    color:white;
+  }
   .project .desc {
     position: absolute;
     top: 0;
@@ -961,6 +970,7 @@ body.offcanvas {
     left: 0;
     right: 0;
     background: #2c98f0;
+    background: RGBA(56,156,206,0.85);
     opacity: 0;
     -webkit-transition: 0.3s;
     -o-transition: 0.3s;
